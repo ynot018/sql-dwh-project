@@ -225,15 +225,3 @@ Data & Analytics Enthusiast
 This project is for educational purposes.
 
 ---
-
-### Want me to customize this?
-I can:
-- Tailor it for **school submission**
-- Adapt it for **finance / investment data** (matches your FYP background)
-- Adjust for **SQL Server / SSIS / Power BI**
-- Rewrite it to look **more impressive for recruiters**
-
-Just tell me:
-1. Database used  
-2. Data domain (sales, finance, property, etc.)  
-3. Is this academic or portfolio?
